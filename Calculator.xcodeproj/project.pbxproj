@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		264626D9238B6FE2007A34A8 /* Calc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 264626D8238B6FE2007A34A8 /* Calc.swift */; };
+		264626DB238B745C007A34A8 /* Conversions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 264626DA238B745C007A34A8 /* Conversions.swift */; };
 		26CEDE5F2364EB8F009E503F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CEDE5E2364EB8F009E503F /* AppDelegate.swift */; };
 		26CEDE612364EB8F009E503F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CEDE602364EB8F009E503F /* SceneDelegate.swift */; };
 		26CEDE632364EB8F009E503F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26CEDE622364EB8F009E503F /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		264626D8238B6FE2007A34A8 /* Calc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calc.swift; sourceTree = "<group>"; };
+		264626DA238B745C007A34A8 /* Conversions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversions.swift; sourceTree = "<group>"; };
 		26CEDE5B2364EB8F009E503F /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26CEDE5E2364EB8F009E503F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		26CEDE602364EB8F009E503F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				26CEDE5E2364EB8F009E503F /* AppDelegate.swift */,
 				26CEDE602364EB8F009E503F /* SceneDelegate.swift */,
 				26CEDE622364EB8F009E503F /* ViewController.swift */,
+				264626D8238B6FE2007A34A8 /* Calc.swift */,
+				264626DA238B745C007A34A8 /* Conversions.swift */,
 				26CEDE642364EB8F009E503F /* Main.storyboard */,
 				26CEDE6A2364EB90009E503F /* Assets.xcassets */,
 				26CEDE6C2364EB90009E503F /* LaunchScreen.storyboard */,
@@ -143,6 +149,8 @@
 			files = (
 				26CEDE632364EB8F009E503F /* ViewController.swift in Sources */,
 				26CEDE692364EB8F009E503F /* Calculator.xcdatamodeld in Sources */,
+				264626D9238B6FE2007A34A8 /* Calc.swift in Sources */,
+				264626DB238B745C007A34A8 /* Conversions.swift in Sources */,
 				26CEDE5F2364EB8F009E503F /* AppDelegate.swift in Sources */,
 				26CEDE612364EB8F009E503F /* SceneDelegate.swift in Sources */,
 			);
